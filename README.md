@@ -8,7 +8,7 @@ Para realizar o projeto é necessário que o programador faça a instalação da
 - Arduíno uno R3
 - Driver de corrente
 - Mini bomba d'água
-- Controlador P&D
+- Controlador PID
 - Sensor Ultrasonic
 - Estrutura
 - Wemos D1
